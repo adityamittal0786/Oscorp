@@ -1,0 +1,6 @@
+{
+  "name": "Oscorp — Orchestrated System Corporation",
+  "description": "Oscorp is an independent technology company exploring intelligent software, AI-powered systems, automation, and experimental engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
