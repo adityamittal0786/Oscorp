@@ -37,7 +37,7 @@ export const Navbar: React.FC = () => {
           : 'bg-transparent border-b border-transparent py-5'
       }`}
     >
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
+      <div className="w-full px-4 sm:px-6 lg:px-8 flex items-center justify-between">
         {/* Official Brand Logo */}
         <Link
           to="/"

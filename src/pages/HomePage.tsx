@@ -60,7 +60,7 @@ export const HomePage: React.FC = () => {
           HERO SECTION — Architectural Editorial Composition
       ========================================================================= */}
       <section className="relative pt-32 pb-24 border-b border-white/[0.08] overflow-hidden bg-grid-subtle">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        <div className="w-full px-4 sm:px-6 lg:px-8 relative z-10">
           {/* Asymmetric Header Grid */}
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start pt-4">
             <div className="lg:col-span-8 space-y-6">
@@ -163,7 +163,7 @@ export const HomePage: React.FC = () => {
           (Completely eliminates the repetitive 3-card grid)
       ========================================================================= */}
       <section className="py-28 border-b border-white/[0.07] bg-[#080808]">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="w-full px-4 sm:px-6 lg:px-8">
           {/* Chapter Kicker */}
           <div className="flex items-center gap-3 text-[11px] font-mono tracking-[0.25em] text-[#858580] uppercase mb-12">
             <span>[ 01 // PERSPECTIVE ]</span>
@@ -251,7 +251,7 @@ export const HomePage: React.FC = () => {
         {/* Subtle Celestial Cyan Ambient Aura */}
         <div className="absolute right-0 top-1/3 -translate-y-1/2 w-[700px] h-[500px] bg-[radial-gradient(ellipse_at_center,rgba(14,165,233,0.06)_0%,transparent_70%)] pointer-events-none" />
 
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 space-y-12">
+        <div className="w-full px-4 sm:px-6 lg:px-8 relative z-10 space-y-12">
           {/* Section Kicker & Header */}
           <div className="flex flex-wrap items-end justify-between gap-6 border-b border-white/[0.08] pb-8">
             <div className="space-y-3 max-w-2xl">
@@ -294,7 +294,7 @@ export const HomePage: React.FC = () => {
           SECTION 04 — THE BUILDER: ADITYA MITTAL (First-Person Authenticity)
       ========================================================================= */}
       <section className="py-28 border-b border-white/[0.07] bg-[#080808]">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="w-full px-4 sm:px-6 lg:px-8">
           <div className="flex items-center gap-3 text-[11px] font-mono tracking-[0.25em] text-[#858580] uppercase mb-12">
             <span>[ 03 // FOUNDER &amp; BUILDER ]</span>
             <span className="text-[#4d4e4b]">·</span>
@@ -428,7 +428,7 @@ export const HomePage: React.FC = () => {
           SECTION 05 — DIRECT COMMUNICATION INVITATION
       ========================================================================= */}
       <section className="py-28 bg-[#050505]">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-8">
+        <div className="w-full px-4 sm:px-6 lg:px-8 text-center space-y-8">
           <div className="flex items-center justify-center gap-3 text-[11px] font-mono tracking-[0.25em] text-[#858580] uppercase">
             <span>[ 04 // EPILOGUE ]</span>
             <span className="text-[#4d4e4b]">·</span>

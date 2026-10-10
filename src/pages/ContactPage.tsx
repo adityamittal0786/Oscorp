@@ -44,7 +44,7 @@ export const ContactPage: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-[#050505] text-[#F2F2F0] pt-32 pb-28 selection:bg-white/10 selection:text-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-20">
+      <div className="w-full px-4 sm:px-6 lg:px-8 space-y-20">
         {/* =========================================================================
             HEADER — Minimal Typographic Composition
         ========================================================================= */}

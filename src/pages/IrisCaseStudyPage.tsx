@@ -226,7 +226,7 @@ export const IrisCaseStudyPage: React.FC = () => {
       {/* Celestial Cyan Ambient Aura */}
       <div className="fixed top-0 left-1/2 -translate-x-1/2 w-[1100px] h-[550px] bg-[radial-gradient(ellipse_at_center,rgba(14,165,233,0.06)_0%,transparent_70%)] pointer-events-none -z-10" />
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-28">
+      <div className="w-full px-4 sm:px-6 lg:px-8 space-y-28">
         {/* =========================================================================
             SECTION 1 — CINEMATIC INTRODUCTION
         ========================================================================= */}
